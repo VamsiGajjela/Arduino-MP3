@@ -1,5 +1,10 @@
 # Arduino-MP3
-Plays Young Dumb and Broke and Havana 
+Plays Young Dumb and Broke and Havana
+
+Havana https://youtu.be/49RmQUm8WAI
+
+Young Dumb And Broke https://youtu.be/oDHcRPqwMP8
+ 
 Materials:
 (x1) Elegoo Uno R3 Board
 (x1) 800 pin breadboard
